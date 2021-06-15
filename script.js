@@ -36,3 +36,7 @@ document.getElementById("lyginam").addEventListener("click", function() {
  document.getElementById("rez1").value = Math.max(sk3, sk4, sk5);
 
 });
+
+
+// 3. Patikrinkite, ar iš trijų įvestų trikampio kraštinių galima sudaryti trikampį.
+
