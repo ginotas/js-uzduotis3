@@ -40,3 +40,19 @@ document.getElementById("lyginam").addEventListener("click", function() {
 
 // 3. Patikrinkite, ar iš trijų įvestų trikampio kraštinių galima sudaryti trikampį.
 
+document.getElementById("trikampis").addEventListener("click", function () {
+
+let sk6, sk7, sk8;
+
+ sk6 = document.getElementById("sk6").value;
+ sk7 = document.getElementById("sk7").value;
+ sk8 = document.getElementById("sk8").value;
+
+    if (sk6 + sk7 > sk8 && sk6 + sk8 > sk7 && sk7 + sk8 > sk6) {
+        document.getElementById("rez2").value = ("Taip, trikampi sudaryti galima");
+    } else {
+        document.getElementById("rez2").value = ("Ne, trikampio sudaryti negalima");
+    }
+
+
+});

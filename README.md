@@ -1,10 +1,8 @@
-# Home work #3
+# Namu darbai #3
 
-_29 group JS home work
+29 group JS
 
-This project is for educational porpuses only.
 
-Context: 
 
 „Javascript sąlygos sakiniai“
 
@@ -32,6 +30,8 @@ Papildomai:
  
 
 3. Patikrinkite, ar iš trijų įvestų trikampio kraštinių galima sudaryti trikampį.
+
+
 
 
 Site published at https://ginotas.github.io/js-uzduotis3/
